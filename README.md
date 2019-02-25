@@ -1,6 +1,9 @@
 # HashColorAvatar
 
-**TODO: Add description**
+This is very small library to generate SVG avatar
+
+
+
 
 ## Installation
 
